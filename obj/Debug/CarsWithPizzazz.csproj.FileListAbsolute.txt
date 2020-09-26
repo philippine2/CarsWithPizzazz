@@ -1,0 +1,5 @@
+C:\Users\WIndows 10\source\repos\CarsWithPizzazz\CarsWithPizzazz\bin\Debug\CarsWithPizzazz.dll
+C:\Users\WIndows 10\source\repos\CarsWithPizzazz\CarsWithPizzazz\bin\Debug\CarsWithPizzazz.pdb
+C:\Users\WIndows 10\source\repos\CarsWithPizzazz\CarsWithPizzazz\obj\Debug\CarsWithPizzazz.dll
+C:\Users\WIndows 10\source\repos\CarsWithPizzazz\CarsWithPizzazz\obj\Debug\CarsWithPizzazz.pdb
+C:\Users\WIndows 10\source\repos\CarsWithPizzazz\CarsWithPizzazz\obj\Debug\CarsWithPizzazz.csprojAssemblyReference.cache
